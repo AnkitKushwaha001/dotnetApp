@@ -1,4 +1,4 @@
-# projet details
+// projet details
 # project creatins cmd : dotnet new webapi -n MyBackendApi
 
 # acording to your sdk version
